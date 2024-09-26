@@ -3,3 +3,4 @@
 1b: How to Design Functions
 2: How to Design Data
 3a: How to Design Worlds
+3b: Compound Data
