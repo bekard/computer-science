@@ -6,7 +6,7 @@
 - [x] 3b: Compound Data
 - [x] 4a: Self-Reference
 - [x] 4b: Reference
-- [ ] 5a: Naturals
+- [x] 5a: Naturals
 - [ ] 5b: Helpers
 - [ ] 6a: Binary Search Trees
 - [ ] 6b: Mutual Reference
