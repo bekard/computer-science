@@ -1,0 +1,19 @@
+- [x] 0:  Introduction
+- [x] 1a: Beginning Student Language
+- [x] 1b: How to Design Functions
+- [x] 2:  How to Design Data
+- [x] 3a: How to Design Worlds
+- [x] 3b: Compound Data
+- [x] 4a: Self-Reference
+- [x] 4b: Reference
+- [ ] 5a: Naturals
+- [ ] 5b: Helpers
+- [ ] 6a: Binary Search Trees
+- [ ] 6b: Mutual Reference
+- [ ] 7a: Two One-Of Types
+- [ ] 7b: Local
+- [ ] 8: Abstraction
+- [ ] 9a: Generative Recursion
+- [ ] 9b: Search
+- [ ] 10: Accumulators
+- [ ] 11: Graphs
