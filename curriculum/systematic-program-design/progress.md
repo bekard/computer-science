@@ -7,7 +7,7 @@
 - [x] 4a: Self-Reference
 - [x] 4b: Reference
 - [x] 5a: Naturals
-- [ ] 5b: Helpers
+- [x] 5b: Helpers
 - [ ] 6a: Binary Search Trees
 - [ ] 6b: Mutual Reference
 - [ ] 7a: Two One-Of Types
